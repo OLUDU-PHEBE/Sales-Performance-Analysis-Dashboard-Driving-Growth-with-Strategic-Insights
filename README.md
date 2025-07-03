@@ -123,7 +123,7 @@ Strategic Focus on Coloured Profiles: Continue to prioritize the marketing, sale
 
 * **Inventory Management:** Maintain optimal stock levels for consistently high-demand products (e.g., TRANZIUM GREY, STRUCTURAL GREY, 40/40 TUBE) to prevent stock-outs and ensure continuous sales.
 
-**Cost Control:** Continue to monitor operational costs, especially "Other Expenses," to ensure sustained profitability.
+* **Cost Control:** Continue to monitor operational costs, especially "Other Expenses," to ensure sustained profitability.
 
 # Future Enhancements
 * Integrate customer demographics data to understand purchasing behavior more deeply.
